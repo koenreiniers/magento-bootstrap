@@ -1,0 +1,20 @@
+{
+    "name": "koenreiniers/magento-bootstrap",
+    "type": "library",
+    "description": "Magento bootstrapper",
+    "keywords": ["magento", "bootstrap", "mage"],
+    "homepage": "http://www.koenreiniers.nl/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Koen Reiniers",
+            "email": "contact@koenreiniers.nl",
+            "homepage": "http://www.koenreiniers.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Kr\\Magestrap\\": "src/"}
+    },
+    "require": {
+    }
+}
